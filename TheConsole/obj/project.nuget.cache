@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "99MxtR3UqDy7OWyVBsPgiZU/W3BJHWNseeoXj6H3RqFSRWz2T2dmXef5KBAZp79EWSO59Wi7JRW31rK2cCP0dA==",
+  "success": true,
+  "projectFilePath": "/Users/mac/Downloads/HTTP Client Playlist 1/Project/TheConsole/TheConsole.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

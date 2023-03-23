@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{D62139AC-C84A-4086-A4E2-EC9845A95CAF}|Default">
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.TheConsole PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
